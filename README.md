@@ -80,7 +80,7 @@ Download both files and place them anywhere accessible; you will upload them via
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/InningsIQ.git
+git clone https://github.com/AthulPBiju/InningsIQ.git
 cd InningsIQ
 ```
 
